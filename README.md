@@ -4,7 +4,7 @@
 
 Hello everyone, here are a few words on my current interests and projects:
 
-- 🔭 Under the supervision of Dr. Stefano Carpin I’m currently working on my research in patrolling games and reinforment learning 
+- 🔭 Under the supervision of Dr. Stefano Carpin I am currently working on my research in patrolling games and reinforment learning 
       at the Univeristy of California, Merced. 
 
 - 🌱 I’m currently learning about reinforment learning approaches for solving security games and robotics as a discipline.
